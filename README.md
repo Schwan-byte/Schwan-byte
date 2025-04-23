@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schwan-byte
 - 👀 I’m interested in ... gaming, readind and learning how to program!
 - 🌱 I’m currently learning ... python!
-- 💞️ I’m looking to collaborate on ... diffent projects, as I understand more about what I enjoy in programing!
+- 💞️ I’m looking to collaborate on ... diffirent projects, as I understand more about what I enjoy in programing!
 - 📫 How to reach me ... via email rafael.schwan61@gmail.com
 - 😄 Pronouns: ... he
 - ⚡ Fun fact: ... 
